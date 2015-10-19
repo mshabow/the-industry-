@@ -1,0 +1,22 @@
+
+.container {
+	background-color: gray;
+	margin: 20px auto;
+	height: 400px;
+
+}
+.container ul {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 30px;
+}
+.container ul li {
+	display: inline;
+	color: white;
+	padding: 20px;
+}
+.container .mainbullshit img {
+	height: 400px;
+	margin-left: 400px;
+	margin-top: 30px;
+}
